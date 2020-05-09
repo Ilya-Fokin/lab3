@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1589011585 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\main.cpp
+	<iostream>
+	<cstdlib>
+	"product.h"
+	"furniture.h"
+	"wardrobe.h"
+	"rack.h"
+	"sofa.h"
+	"table.h"
+
+1588861487 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\product.h
+
+1589010854 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\furniture.h
+	"product.h"
+
+1589010997 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\wardrobe.h
+	"furniture.h"
+
+1589010907 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\rack.h
+	"furniture.h"
+
+1589010919 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\sofa.h
+	"furniture.h"
+
+1588861666 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\table.h
+	"furniture.h"
+
+1589010876 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\rack.cpp
+	<iostream>
+	"rack.h"
+	"furniture.h"
+
+1589010890 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\sofa.cpp
+	<iostream>
+	"sofa.h"
+	"furniture.h"
+
+1588861802 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\table.cpp
+	<iostream>
+	"furniture.h"
+	"table.h"
+
+1589010947 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\wardrobe.cpp
+	<iostream>
+	"wardrobe.h"
+	"furniture.h"
+
+1589010757 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\furniture.cpp
+	<iostream>
+	"product.h"
+	"furniture.h"
+
+1589010810 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab3c++\product.cpp
+	<iostream>
+	"product.h"
+
